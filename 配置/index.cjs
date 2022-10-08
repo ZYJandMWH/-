@@ -6,16 +6,12 @@
  * 自行添加属性，以支持更多个性化功能
  */
 const USER_CONFIG = {
-
   // 使用微信测试号：公众号APP_ID
   APP_ID: 'wx9d3b4e75bb01392d',
-
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'db8a779e4d11f87bdc49afe3cb52c879',
-
   PROVINCE: '山东',
   CITY: '济南',
-
   USERS: [
     {
       // 想要发送的人的名字
@@ -26,8 +22,6 @@ const USER_CONFIG = {
       useTemplateId: 'B37PPbj8xNRSLGGCc9kowHaxOxf6L-GU7T-YhD7dtoU',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '03-02',
-      
-    
   ],
 
 
@@ -41,7 +35,6 @@ const USER_CONFIG = {
       id: 'oJUOO6aPPBCBdwilyzC71QgdmT98',
     }
   ],
-
 }
 
 module.exports = USER_CONFIG
