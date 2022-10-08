@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'B37PPbj8xNRSLGGCc9kowHaxOxf6L-GU7T-YhD7dtoU',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '03-02',
+      horoscopeDate: '03-02',}
   ],
 
 
