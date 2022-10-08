@@ -19,7 +19,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oJUOO6WX1oNTgWpijP9Ur8dyv_PM',id: 'oJUOO6aPPBCBdwilyzC71QgdmT98',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '2W_mCmn4PH_YvyniOHJF1q20prP3YElusTEfhx8bLYo',
+      useTemplateId: 't_he9HRWkdwjA2B4vNoY8F5lgmPgctacSzwvKwcgXMg',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '03-02',
       festivals: [
